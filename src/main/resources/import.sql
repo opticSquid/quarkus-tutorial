@@ -1,0 +1,3 @@
+-- INSERT INTO users(id, name) VALUES (nextval('users_seq'), 'Alice');
+-- INSERT INTO users(id, name) VALUES (nextval('users_seq'), 'Bob');
+-- INSERT INTO users(id, name) VALUES (nextval('users_seq'), 'Charlie');
